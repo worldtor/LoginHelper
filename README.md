@@ -1,3 +1,4 @@
+## 这是备份,原作者地址：https://github.com/AppleIdLoginHelper/LoginHelper
 ## 这是什么
 众所周知，最近苹果又整幺蛾子了，提供的 `apple id` 稍不留神就会被永远不看注意事项的睿智用户开启两步认证，当你费劲千辛万苦关闭之后，又会被另一个睿智用户开启。宝贵的时间怎么能花在这种重复的事情上呢？
 
@@ -74,7 +75,7 @@ rm -rf .user.ini public/.user.ini
 ```
 拉取代码
 ```
-git clone https://github.com/AppleIdLoginHelper/LoginHelper .
+git clone https://github.com/worldtor/LoginHelper .
 ```
 安装 `composer` 命令（已安装可跳过）
 ```
